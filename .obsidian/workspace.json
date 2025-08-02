@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/Untitled.md",
+                "file": "STM32/9. STM32 I2C Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "9. STM32 I2C Notes"
             }
           }
         ],
@@ -183,20 +183,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b6cd92f23a01ed",
+  "active": "51c2b50444b69e08",
   "lastOpenFiles": [
-    "Power Electronics/3. Boost Converter.md",
     "STM32/Untitled.md",
-    "STM32",
-    "Power Electronics/2. Basic analysis techniques.md",
+    "STM32/9. STM32 I2C Notes.md",
+    "STM32/8. STM32 TRNG Notes.md",
+    "STM32/1. STM32 LED Blink Tutorial.md",
+    "STM32/2. STM32 LED Blink Debugging Notes.md",
+    "STM32/3. STM32 LED Blink with Interrupt Notes.md",
+    "STM32/4. STM32 LED Blink Optimization Notes.md",
+    "STM32/5. STM32 PWM Blink Notes.md",
+    "STM32/6. STM32 PWM Dimming Notes.md",
+    "STM32/7. STM32 UART DMA Receive Notes.md",
     "README.md",
+    "Power Electronics/2. Basic analysis techniques.md",
     "Power Electronics/1. Basics.md",
-    "Power Electronics/Pics/Pasted image 20250727182904.png",
-    "Power Electronics/Pics/Pasted image 20250727180852.png",
-    "Power Electronics/Pics/Pasted image 20250727175809.png",
-    "Power Electronics/Pics/Pasted image 20250727175737.png",
-    "Power Electronics/Pics/Pasted image 20250727175134.png",
-    "Power Electronics/Pics/Pasted image 20250727174402.png",
-    "Power Electronics/Pics/Pasted image 20250727173118.png"
+    "Power Electronics/9. Equivalent circuit model (Buck).md",
+    "Power Electronics/8. Equivalent circuit model (Boost).md",
+    "Power Electronics/7. Inductor copper loss.md",
+    "Power Electronics/6. Circuits with ideal transformers.md",
+    "Power Electronics/4. Ripple in 2-pole LPF.md",
+    "Power Electronics/3. Boost Converter.md",
+    "Power Electronics/Pics/Pasted image 20250731201326.png",
+    "Power Electronics/Pics/Pasted image 20250731200523.png",
+    "Power Electronics/Pics/Pasted image 20250731200016.png",
+    "Power Electronics/Pics/Pasted image 20250731195854.png",
+    "Power Electronics/Pics/Pasted image 20250731195638.png",
+    "Power Electronics/Pics/Pasted image 20250731194433.png",
+    "Power Electronics/Pics/Pasted image 20250731193914.png",
+    "Power Electronics/Pics/Pasted image 20250731192734.png",
+    "Power Electronics/Pics/Pasted image 20250731180820.png",
+    "Power Electronics/Pics/Pasted image 20250731180751.png",
+    "Power Electronics/5. Equivalent circuits.md",
+    "STM32"
   ]
 }
